@@ -3,7 +3,8 @@
 #### Technical Skills: Python, SQL, R, Power BI, Ms Azure, Hadoop, AWS, Snowflake
 
 ## Education
-- MS Big Data Analytics | Sheffield Hallam University, UK (_September 2024_)								       		
+- MS Big Data Analytics
+  _Sheffield Hallam University, UK_ (September 2024)								       		
 - BE Electrical Engineering	| National University of Sciences & Technology, Pakistan (_June 2020_)
 
 ## Projects
