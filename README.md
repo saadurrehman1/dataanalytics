@@ -3,9 +3,8 @@
 #### Technical Skills: Python, SQL, R, Power BI, Ms Azure, Hadoop, AWS, Snowflake
 
 ## Education
-- MS Big Data Analytics
-  _Sheffield Hallam University, UK_ (September 2024)								       		
-- BE Electrical Engineering	| National University of Sciences & Technology, Pakistan (_June 2020_)
+- MS Big Data Analytics - _Sheffield Hallam University, UK_ (September 2024)								       		
+- BE Electrical Engineering	- _National University of Sciences & Technology, Pakistan_ (June 2020)
 
 ## Projects
 ### New York Flights' Analysis for enhancing operational efficiency
