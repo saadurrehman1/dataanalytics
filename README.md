@@ -8,7 +8,7 @@
 
 ## Projects
 ### New York Flights' Analysis for enhancing operational efficiency
-https://saadurrehman1.github.io/NYFliights/
+[Project Link](https://saadurrehman1.github.io/NYFliights/)
 ### Summary
 - Collected 10 years of New York flight data from the Bureau of Transportation Statistics (BTS) and weather data from Mesonet.
 - Objective was to analyze the relationship between weather conditions and flight delays over the past 10 years and generate data-driven insights to improve operational strategies during adverse weather conditions.
